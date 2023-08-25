@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <head>
     <meta charset='utf-8'>
@@ -10,7 +9,7 @@
 </head>
 <h1 style="color:rgb(255, 136, 0);">Receita de Ovo FRITO</h1>
 <hr>
-<img scr="https://i.imgur.com/hLAynQQ.jpeg" alt="ovo frito" width="200px">
+<img src="https://casbri.com.br/wp-content/uploads/2020/08/dfdsfd-768x712.jpg" alt="Girl in a jacket" width="500"
 <hr3>Tabela de ingredientes</hr3>
 <body>
     <table border="1">
