@@ -31,7 +31,7 @@
 
         <tr>
              <td>Sal</td>
-             <td>1g</td>
+             <td>2g</td>
         </tr>
     </tbody>
     <tfoot>
