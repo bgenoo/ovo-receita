@@ -8,7 +8,7 @@
     <link rel='stylesheet' type='text/css' media='screen' href='main.css'>
     <script src='main.js'></script>
 </head>
-<h1 style="color:rgb(255, 136, 0);">Receita de Ovo frito</h1>
+<h1 style="color:rgb(255, 136, 0);">Receita de Ovo FRITO</h1>
 <hr>
 <img scr="https://i.imgur.com/hLAynQQ.jpeg" alt="ovo frito" width="200px">
 <hr3>Tabela de ingredientes</hr3>
@@ -31,7 +31,7 @@
 
         <tr>
              <td>Sal</td>
-             <td>1g</td>
+             <td>2g</td>
         </tr>
     </tbody>
     <tfoot>
