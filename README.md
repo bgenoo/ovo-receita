@@ -9,7 +9,7 @@
 </head>
 <h1 style="color:rgb(255, 136, 0);">Receita de Ovo FRITO</h1>
 <hr>
-<img src="https://casbri.com.br/wp-content/uploads/2020/08/dfdsfd-768x712.jpg" alt="Girl in a jacket" width="500">
+<img src="https://casbri.com.br/wp-content/uploads/2020/08/dfdsfd-768x712.jpg" alt="Girl in a jacket" width="300">
 
     
 <hr3>Tabela de ingredientes</hr3>
