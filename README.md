@@ -13,7 +13,7 @@
     
 <br><hr2>Tabela de ingredientes</hr2>
 <body>
-    <table border="1">
+    <table border="2">
         <thead>
             <th>Ingredientes</th>
             <th>Receita</th>
