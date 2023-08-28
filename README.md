@@ -11,7 +11,7 @@
 <hr>
 <img src="https://casbri.com.br/wp-content/uploads/2020/08/dfdsfd-768x712.jpg" alt="Girl in a jacket" width="300">
     
-<hr3><br>Tabela de ingredientes</hr3>
+<br><hr3>Tabela de ingredientes</hr3>
 <body>
     <table border="1">
         <thead>
