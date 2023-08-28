@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -48,8 +47,8 @@
             </tr>
         </tfoot>
 
-</body>
 </table>
+</body>
 
 <h2>Modo de preparo</h2>
 <ol>
