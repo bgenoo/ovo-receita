@@ -52,7 +52,7 @@
 
 <h2>Modo de preparo</h2>
 <ol>
-    <li>Compre o vo</li>
+    <li>Compre o ovo</li>
     <li>Quebre o ovo</li>
     <li>Frite o ovo</li>
     <li>Agora come fi</li>
